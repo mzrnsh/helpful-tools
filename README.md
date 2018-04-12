@@ -2,3 +2,4 @@
 
 - https://realfavicongenerator.net/
 - https://imageresize.org/ - resize and optimize images
+- https://uptimerobot.com/ - get notified when your site is down
