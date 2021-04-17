@@ -1,4 +1,4 @@
-# List of tools useful for making websites
+# List of helpful tools for making web products
 
 - https://realfavicongenerator.net/
 - https://imageresize.org/ - resize and optimize images
