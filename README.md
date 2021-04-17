@@ -1,4 +1,4 @@
-# These are some tools I find helpful when working on web products
+## These are some tools I find helpful when working on web products
 
 - https://realfavicongenerator.net/
 - https://imageresize.org/ - resize and optimize images
